@@ -1,0 +1,75 @@
+/* src/assets/css/AdminServiceDetails.css
+.admin-service-details {
+    max-width: 600px;
+    margin: 20px auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+}
+
+.admin-service-details h1 {
+    text-align: center;
+    color: #333;
+}
+
+label {
+    margin-top: 10px;
+    margin-bottom: 5px;
+    color: #666;
+}
+
+p {
+    margin-bottom: 15px;
+}
+
+button {
+    background-color: #007bff;
+    color: white;
+    border: none;
+    padding: 10px;
+    border-radius: 4px;
+    margin-right: 10px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #0056b3;
+} */
+/* src/assets/css/ViewService.css */
+.view-service-page {
+    max-width: 800px;
+    margin: 20px auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    margin-top: 10%;
+}
+
+.view-service-page h1 {
+    text-align: center;
+    color: #333;
+}
+
+.back-to-dashboard-button {
+    background-color: #007bff;
+    color: white;
+    border: none;
+    padding: 10px;
+    border-radius: 4px;
+    margin-top: 20px;
+    cursor: pointer;
+    text-align: center;
+    /* padding-left: 50px; */
+    margin-left: 40%;
+}
+
+.back-to-dashboard-button:hover {
+    background-color: #0056b3;
+    /* text-align: center;
+    padding-left: 90px; */
+
+}
+
+/* Additional styles for ServiceList and EditService components if needed */
+
+

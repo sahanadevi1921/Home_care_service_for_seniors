@@ -1,0 +1,52 @@
+/* .about-us-page {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    margin-top: 10%;
+  }
+  
+  h1 {
+    color: #333;
+  }
+  
+  p {
+    margin-bottom: 20px;
+    line-height: 1.6;
+  }
+  
+  Add additional styling as needed */
+  .about-us-page {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    margin-top: 5%;
+  }
+  
+  h1 {
+    color: #333;
+  }
+  
+  p {
+    margin-bottom: 20px;
+    line-height: 1.6;
+  }
+  
+  textarea {
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 10px;
+  }
+  
+  button {
+    background-color: #4caf50;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background-color: #45a049;
+  }
+  
+  
