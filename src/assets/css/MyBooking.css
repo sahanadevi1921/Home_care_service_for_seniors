@@ -1,0 +1,33 @@
+/* MyBooking.css */
+.my-booking-page {
+  margin: 20px;
+}
+.my-booking-page-h1{
+  text-align: center;
+}
+
+.booking-list {
+  margin-top: 20px;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 10px;
+}
+
+th, td {
+  border: 1px solid #ddd;
+  padding: 8px;
+  text-align: left;
+}
+
+th {
+  background-color: #1d1a1a;
+}
+
+button {
+  margin-right: 5px;
+}
+
+  

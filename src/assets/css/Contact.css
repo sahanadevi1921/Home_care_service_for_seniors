@@ -1,0 +1,71 @@
+/* .contact-page {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+    margin-top: 10%;
+    margin-left: 40%;
+  }
+  
+  .contact-info {
+    margin-bottom: 20px;
+  }
+  
+  label {
+    display: block;
+    margin-bottom: 5px;
+  }
+  
+  input,
+  textarea {
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 10px;
+  }
+  
+  .edit-buttons {
+    text-align: center;
+  }
+  /* p{
+    text-align: center;
+    margin-left: 10%;
+  } */
+/*   
+  button {
+    background-color: #4caf50;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background-color: #45a049;
+  } */ */
+  /* Contact.css */
+
+.contact-page {
+  max-width: 600px; /* Adjust the maximum width as needed */
+  margin: 0 auto;
+  padding: 20px;
+  margin-top: 10%;
+}
+
+.contact-info {
+  margin-bottom: 20px;
+}
+
+label {
+  display: block;
+  margin-bottom: 5px;
+}
+
+textarea, input {
+  width: 100%;
+  margin-bottom: 10px;
+}
+
+.edit-buttons {
+  text-align: center;
+}
+
+/* Add more styles as needed */

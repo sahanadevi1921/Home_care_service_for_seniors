@@ -1,0 +1,132 @@
+/* src/assets/css/AdminServiceDetails.css
+.admin-service-details {
+    max-width: 600px;
+    margin: 20px auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+}
+
+.admin-service-details h1 {
+    text-align: center;
+    color: #333;
+}
+
+label {
+    margin-top: 10px;
+    margin-bottom: 5px;
+    color: #666;
+}
+
+p {
+    margin-bottom: 15px;
+}
+
+button {
+    background-color: #007bff;
+    color: white;
+    border: none;
+    padding: 10px;
+    border-radius: 4px;
+    margin-right: 10px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #0056b3;
+} */
+/* src/assets/css/ViewService.css */
+/* .view-service-page {
+    max-width: 800px;
+    margin: 20px auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    margin-top: 5%;
+}
+
+.view-service-page h1 {
+    text-align: center;
+    color: #333;
+}
+
+.back-to-dashboard-button {
+    background-color: #007bff;
+    color: white;
+    border: none;
+    padding: 10px;
+    border-radius: 4px;
+    margin-top: 20px;
+    cursor: pointer;
+    text-align: center;
+   
+    margin-left: 40%;
+}
+
+.back-to-dashboard-button:hover {
+    background-color: #0056b3;
+   
+
+} */
+
+/* Additional styles for ServiceList and EditService components if needed */
+
+/* ViewService.css */
+.view-service-page {
+    padding: 20px;
+}
+
+.card-deck {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+.card {
+    width: 18rem;
+    margin: 15px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    transition: transform 0.3s ease-in-out;
+}
+
+.card:hover {
+    transform: scale(1.05);
+}
+
+.card img {
+    width: 100%;
+    height: 200px;
+    object-fit: cover;
+    border-top-left-radius: 8px;
+    border-top-right-radius: 8px;
+}
+
+.card-body {
+    padding: 15px;
+}
+
+.card-title {
+    font-size: 1.2rem;
+    margin-bottom: 10px;
+}
+
+.card-text {
+    margin-bottom: 5px;
+}
+
+.back-to-dashboard-button {
+    margin-top: 20px;
+    padding: 10px 20px;
+    font-size: 1rem;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    text-decoration: none;
+}
+
+.back-to-dashboard-button:hover {
+    background-color: #0056b3;
+}
+

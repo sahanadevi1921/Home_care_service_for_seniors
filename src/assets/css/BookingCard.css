@@ -1,0 +1,23 @@
+/* BookingCard.css */
+
+tr {
+    border-bottom: 1px solid #ddd;
+}
+
+td {
+    padding: 10px;
+}
+
+input[type="text"] {
+    width: 100%;
+    padding: 5px;
+    box-sizing: border-box;
+}
+
+button {
+    cursor: pointer;
+    padding: 5px 10px;
+    margin-right: 5px;
+}
+
+/* Add any other styles as needed */

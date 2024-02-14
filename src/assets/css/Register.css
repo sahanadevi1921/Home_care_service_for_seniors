@@ -1,0 +1,246 @@
+/* .signup-wrapper{
+  background-color: rgba(252, 213, 240, 0.636);;
+  height: 100vh;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+}
+h3{
+  margin: 0;
+}
+.signup-small{
+  background-color: rgba(170, 13, 130, 0.229);
+  height: 50%;
+  width: 40%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.signup-email{
+  height:8vh;
+  width: 80%;
+  margin: 2vh;
+  border-radius: 20px;
+  outline: none;
+  border: 0;
+  padding-left: 5vh;
+  font-size: 12pt;
+  letter-spacing: 2px;
+}
+.signup-username{
+  height:8vh;
+  width: 80%;
+  margin: 2vh;
+  border-radius: 20px;
+  outline: none;
+  border: 0;
+  padding-left: 5vh;
+  font-size: 12pt;
+  letter-spacing: 2px;
+}
+.signup-password{
+  height:8vh;
+  width: 80%;
+  margin: 2vh;
+  border-radius: 20px;
+  outline: none;
+  border: 0;
+  padding-left: 5vh;
+  font-size: 12pt;
+  letter-spacing: 2px;
+}
+.signup-con{
+  height: 8vh;
+  width: 80%;
+  margin: 2vh;
+  border-radius: 20px;
+  outline: none;
+  border: 0;
+  padding-left: 5vh;
+  font-size: 12pt;
+  letter-spacing: 2px;
+}
+.signup-button{
+  height: 8vh;
+  width: 80%;
+  margin: 2vh;
+  border-radius: 20px;
+  outline: none;
+  border: 0;
+  padding-left: 5vh;
+  font-size: 12pt;
+  letter-spacing: 2px;
+  background-color: rgba(96, 194, 121, 0.915);
+} */
+/* src/assets/css/Register.css */
+/* .register-container{
+  background-color: rgba(252, 213, 240, 0.636);
+  height:750px;
+}
+.register-page {
+  max-width: 400px;
+  margin: 20px auto;
+  padding: 20px;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  text-align: center;
+  background-color: white;
+  margin-bottom: -10%;
+}
+
+.register-page h1 {
+  color: #333;
+}
+
+.form-group {
+  margin-bottom: 15px;
+}
+
+label {
+  display: block;
+  margin-bottom: 5px;
+  color: #555;
+}
+
+input {
+  width: 100%;
+  padding: 8px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+  margin-top: 5px;
+}
+
+button {
+  background-color: #007bff;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #0056b3;
+}
+
+p {
+  margin-top: 15px;
+  color: #555;
+}
+
+p a {
+  color: #007bff;
+  text-decoration: none;
+}
+
+p a:hover {
+  text-decoration: underline;
+} */
+
+
+/* RegistrationForm.css */
+/* .reg-all{
+  background-color: rgba(252, 213, 240, 0.636);
+  background-size: cover;
+  height: 100vh;
+  position: fixed;
+  width: 100%;
+  height: 100vh;
+  left: 0;
+  top: 0;
+}
+.register-container {
+  max-width: 400px;
+  margin: 0 auto;
+  margin-top: 5%;
+}
+
+.form-group {
+  margin-bottom: 20px;
+}
+
+label {
+  display: block;
+  margin-bottom: 5px;
+}
+
+input {
+  width: 100%;
+  padding: 8px;
+  margin-bottom: 8px;
+}
+
+.text-danger {
+  color: red;
+  font-size: 14px;
+}
+
+button {
+  padding: 10px;
+  background-color: #4caf50;
+  color: white;
+  border: none;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #45a049;
+} */
+ .reg-all{
+  background-color: rgba(211, 6, 9, 0.353);
+  background-size: cover;
+  height: 100vh;
+  position: fixed;
+  width: 100%;
+  height: 100vh;
+  left: 0;
+  top: 0;
+}
+.register-container {
+  max-width: 400px;
+  margin: 0 auto;
+  margin-top: 5%;
+  background-color: #f2f2f2;
+  padding: 20px;
+  border-radius: 10px;
+}
+
+.form-group {
+  margin-bottom: 20px;
+}
+
+label {
+  display: block;
+  margin-bottom: 5px;
+}
+
+input {
+  width: 100%;
+  padding: 8px;
+  margin-bottom: 8px;
+}
+
+.text-danger {
+  color: red;
+  font-size: 14px;
+}
+
+button {
+  padding: 10px;
+  background-color: #4caf50;
+  color: white;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+}
+
+button:hover {
+  background-color: #45a049;
+}
+
+

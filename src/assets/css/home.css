@@ -1,0 +1,54 @@
+.home-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+    width: 2140px;
+    margin-right: 100px;
+      margin-left:-500px ;
+    background-image: url('http://www.valucareinc.com/images/backgrounds/full-bg-23.jpg');
+    background-size: cover;
+    background-position: center;
+    color: #fff; /* Text color for the heading and buttons */
+  }
+  
+  /* Styles for the heading */
+  .home-container h1 {
+    font-size: 3.5rem;
+    margin-bottom: 1rem;
+    margin-left: 300px;
+    color: black;
+  }
+  
+  /* Styles for the button container */
+  .button-container {
+    display: flex;
+    justify-content: center;
+  }
+  
+  /* Styles for the buttons */
+  button {
+    padding: 10px 20px;
+    font-size: 1rem;
+    margin: 0 10px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .admin-button {
+    background-color: #1169c8d7; /* Replace with your preferred color */
+    color: #1c1d1e;
+    margin-left:300px;
+    font-size: 40px;
+  }
+  
+  .user-button {
+    background-color: #28a746e1; /* Replace with your preferred color */
+    color: #fff;
+    font-size: 40px;
+  }
+  
+  
+  

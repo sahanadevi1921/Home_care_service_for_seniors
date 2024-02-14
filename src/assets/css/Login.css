@@ -1,0 +1,54 @@
+.signin-all{
+    /* background-color: rgba(252, 213, 240, 0.636); */
+    background-color: rgba(211, 6, 9, 0.353);
+    /* background-image: url("https://image4.slideserve.com/1168552/the-best-h-ome-c-are-s-ervices-n.jpg"); */
+    background-size: cover;
+    height: 100vh;
+    position: fixed;
+    width: 100%;
+    height: 100vh;
+    left: 0;
+    top: 0;
+}
+.signin-container{
+    background-color: white;
+    height: 50%;
+    width: 40%;
+    right:0;
+    margin-left: 28%;
+    padding-top: 2%;
+    margin-top: 10%;
+    /* position: absolute;
+  right: 0;
+  margin: 80px;
+  max-width: 500px;
+  padding: 16px;
+  background-color: white; */
+}
+.signin-container h1{
+    text-align: center;
+}
+.signin-fields{
+    /* background-color: aqua; */
+    width: 80%;
+    margin-left: 10%;
+    padding-top: 6%;
+    height: 50vh;
+    text-align: center;
+}
+.signin-fields p{
+    text-align: left;
+    margin-left: 17%;
+}
+.signin-fields input{
+    height: 45px;
+    width: 65%;
+}
+.signin-fields button{
+    height: 45px;
+    width: 65%;
+    background-color: rgba(96, 194, 121, 0.915);
+    border-color:rgba(96, 160, 194, 0.781);
+    /* border-radius: 30px; */
+    /* margin-right: 28%; */
+}
